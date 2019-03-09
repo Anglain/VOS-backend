@@ -1,0 +1,24 @@
+{
+  "name": "vos-backend",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anglain/VOS-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anglain/VOS-backend/issues"
+  },
+  "homepage": "https://github.com/Anglain/VOS-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.18",
+    "node": "^11.11.0"
+  }
+}
